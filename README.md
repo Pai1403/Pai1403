@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">Hi 👋! My name is Siddharth  and I'm a ML Engineer</h2>
+<p>
+  
+- 🔭 I’m currently working on Custom LLM Agents 
+  
+- 😄 Pronouns: He/Him
+  
+- ⚡ Fun fact: There are no foolproof ways to control LLM actions.
+</p>
 
 ###
 
@@ -28,6 +36,8 @@ Here are some ideas to get you started:
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1nczRydm13cDNzYWRobXlvcXJ2ZHJ0YmNmY3U2bW10YmtsY3V6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
 
 ###
+
+
 # Tech Stack
 
 <div align="left">
