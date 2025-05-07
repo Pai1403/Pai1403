@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1nczRydm13cDNzYWRobXlvcXJ2ZHJ0YmNmY3U2bW10YmtsY3V6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
 
 ###
+# Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -56,7 +57,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
+# Lets Connect
 <div align="left">
   <a href="siddharthpai1403@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
