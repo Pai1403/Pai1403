@@ -1,95 +1,87 @@
+# Hi, I'm Siddharth Pai 👋
 
+### Machine Learning Engineer | LLMs · AI Agents · Applied AI
 
-<!--
-**Pai1403/Pai1403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and explore machine learning systems, with a current focus on **custom LLM agents and intelligent AI applications**. I'm interested in how AI systems reason, use tools, and operate reliably in real-world environments.
 
-Here are some ideas to get you started:
+* 🔭 **Currently working on:** Custom LLM agents
+* 🧠 **Interested in:** Machine Learning, Deep Learning, LLMs, and AI Agent architectures
+* 🛠️ **Core tools:** Python, PyTorch, TensorFlow, NumPy, and Pandas
+* 🤝 **Open to:** Collaborating on interesting AI/ML projects
+* ⚡ **Fun fact:** Building an agent is one thing; making its actions reliable is another.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2 align="center">Hi 👋! My name is Siddharth  and I'm a ML Engineer</h2>
-<p>
-  
-- 🔭 I’m currently working on Custom LLM Agents 
-  
-- 😄 Pronouns: He/Him
-  
-- ⚡ Fun fact: There are no foolproof ways to control LLM actions.
-</p>
+---
 
-###
+## 🧰 Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pai1403&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pai1403&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+**Languages & Development**
 
-###
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1nczRydm13cDNzYWRobXlvcXJ2ZHJ0YmNmY3U2bW10YmtsY3V6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
+**Machine Learning & Data**
 
-###
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
 
+**Tools & Environment**
 
-# Tech Stack
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=flat-square\&logo=pycharm\&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square\&logo=ubuntu\&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-</div>
+---
 
-###
-# Lets Connect
-<div align="left">
-  <a href="siddharthpai1403@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/pai1403/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/siddharthpai1403" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-</div>
+## 📌 Featured Projects
 
-###
+A few projects that showcase what I'm building and learning.
 
-<br clear="both">
+<!-- Replace these placeholders with links to your actual repositories. -->
 
-<img src="https://raw.githubusercontent.com/Pai1403/Pai1403/output/snake.svg" alt="Snake animation" />
+* **🤖 Custom LLM Agents** — Experiments with LLM-powered agents, tool use, and reliable execution.
+* **🧠 Machine Learning Projects** — Models, experiments, and practical applications of machine learning.
+* **📊 Data Science & Computer Vision** — Data analysis, model evaluation, and computer vision experiments.
 
-###
+---
+
+## 📈 GitHub Overview
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Pai1403/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pai1403&show_icons=true&hide_border=true&theme=transparent" height="165" alt="Siddharth's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pai1403&layout=compact&hide_border=true&theme=transparent&langs_count=6" height="165" alt="Most used programming languages" />
 </div>
 
-###
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pai1403/Pai1403/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pai1403/Pai1403/output/github-snake.svg">
+    <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/Pai1403/Pai1403/output/github-snake.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to connect with people interested in AI, machine learning, and building useful things.
+
+<div align="left">
+  <a href="mailto:siddharthpai1403@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/pai1403/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/siddharthpai1403">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+</div>
